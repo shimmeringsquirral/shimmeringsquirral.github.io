@@ -1,0 +1,9 @@
+body{
+    text-align:center;
+    background: rgb(227,127,127);
+    background: linear-gradient(90deg, rgba(227,127,127,1) 100%, rgba(0,36,21,1) 100%);;
+}
+img{
+    width:700px;
+
+}
